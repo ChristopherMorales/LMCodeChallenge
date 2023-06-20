@@ -1,0 +1,1 @@
+﻿DependenciesPip install requests ipaddress
